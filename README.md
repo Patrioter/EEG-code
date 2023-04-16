@@ -27,3 +27,9 @@ Sipke detection:
 2021: [AiED: Artificial intelligence for the detection of intracranial interictal epileptiform discharges](https://github.com/ecoglab/aied)
 
 2023: [Graph Neural Networks in EEG Spike detection](https://github.com/ahmedmohammed107/GNNs_EEG_Spike_Detection-)
+
+Self supervised:
+======
+2022: [Self-Supervised Graph Neural Networks for Improved Electroencephalographic Seizure Analysis](https://github.com/tsy935/eeg-gnn-ssl)
+
+2022: [Time-Series Representation Learning via Temporal and Contextual Contrasting (TS-TCC)](https://github.com/emadeldeen24/TS-TCC)
