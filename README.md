@@ -1,14 +1,13 @@
-# Some EEG paper with code
-The list of EEG paper on healthcare with available code
+# Available code for EEG 
 
 Seizure detection:
 ======
 2018: [An Automated System for Epilepsy Detection using EEG Brain Signals based on Deep Learning Approach](https://github.com/MathieuLaksh/eeg_epilepsy_conv1d)
-(Bonn dataset)
+(on Bonn dataset)
 
 2018: [Convolutional Neural Networks for Seizure Prediction Using Intracranial and Scalp Electroencephalogram](https://github.com/NeuroSyd/seizure-prediction-CNN)
 (https://github.com/SMorettini/CNNs-on-CHB-MIT)
-（CHB-MIT)
+（on CHB-MIT dataset)
 
 
 2020: [Epileptic Seizure Classification with Symmetric and Hybrid Bilinear Models](https://github.com/NeuroSyd/Epileptic-Seizure-Classification)
@@ -35,6 +34,16 @@ Self supervised:
 ======
 2022: [Self-Supervised Graph Neural Networks for Improved Electroencephalographic Seizure Analysis](https://github.com/tsy935/eeg-gnn-ssl)
 
+Classification:
+
+
 Time series:
 ======
 2022: [Time-Series Representation Learning via Temporal and Contextual Contrasting (TS-TCC)](https://github.com/emadeldeen24/TS-TCC)
+
+EEG epileptic seizure dataset:
+[Epileptic Seizure Detection on EEG Data based on CHB-MIT database using Discrete Wavelet Transform with wavelet family 'coif3', 7 level decomposition. Training is done by SVM and Random Forest](https://github.com/hakanbicerrr/Epileptic_Seizure_Detection)
+
+[Machine learning on the CHB-MIT scalp EEG database](https://github.com/dougkoch/chb-mit)
+
+[Seizure-Detection-using-CNN-on-EEG-data]https://github.com/shubham-1123/Seizure-Detection-using-CNN-on-EEG-data
