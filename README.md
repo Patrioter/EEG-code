@@ -1,5 +1,5 @@
-# EEG-paper-with-code
-The list of EEG paper with available code
+# Some EEG paper with code
+The list of EEG paper on healthcare with available code
 
 Seizure detection:
 ======
