@@ -41,7 +41,8 @@ Time series:
 ======
 2022: [Time-Series Representation Learning via Temporal and Contextual Contrasting (TS-TCC)](https://github.com/emadeldeen24/TS-TCC)
 
-EEG epileptic seizure dataset:
+Others on EEG epileptic seizure dataset:
+======
 [Epileptic Seizure Detection on EEG Data based on CHB-MIT database using Discrete Wavelet Transform with wavelet family 'coif3', 7 level decomposition. Training is done by SVM and Random Forest](https://github.com/hakanbicerrr/Epileptic_Seizure_Detection)
 
 [Machine learning on the CHB-MIT scalp EEG database](https://github.com/dougkoch/chb-mit)
