@@ -47,4 +47,4 @@ Others on EEG epileptic seizure dataset:
 
 [Machine learning on the CHB-MIT scalp EEG database](https://github.com/dougkoch/chb-mit)
 
-[Seizure-Detection-using-CNN-on-EEG-data]https://github.com/shubham-1123/Seizure-Detection-using-CNN-on-EEG-data
+[Seizure-Detection-using-CNN-on-EEG-data](https://github.com/shubham-1123/Seizure-Detection-using-CNN-on-EEG-data)
