@@ -6,7 +6,8 @@ Seizure detection:
 2018: [An Automated System for Epilepsy Detection using EEG Brain Signals based on Deep Learning Approach](https://github.com/MathieuLaksh/eeg_epilepsy_conv1d)
 (Bonn dataset)
 
-2018: [Convolutional Neural Networks for Seizure Prediction Using Intracranial and Scalp Electroencephalogram](https://github.com/SMorettini/CNNs-on-CHB-MIT)(https://github.com/NeuroSyd/seizure-prediction-CNN))  
+2018: [Convolutional Neural Networks for Seizure Prediction Using Intracranial and Scalp Electroencephalogram](https://github.com/NeuroSyd/seizure-prediction-CNN)
+(https://github.com/SMorettini/CNNs-on-CHB-MIT)
 （CHB-MIT)
 
 
