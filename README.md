@@ -43,8 +43,17 @@ Time series:
 
 Others on EEG epileptic seizure dataset:
 ======
+[Seizure-Detection-Tutorials](https://github.com/Eldave93/Seizure-Detection-Tutorials)
+
 [Epileptic Seizure Detection on EEG Data based on CHB-MIT database using Discrete Wavelet Transform with wavelet family 'coif3', 7 level decomposition. Training is done by SVM and Random Forest](https://github.com/hakanbicerrr/Epileptic_Seizure_Detection)
 
 [Machine learning on the CHB-MIT scalp EEG database](https://github.com/dougkoch/chb-mit)
 
 [Seizure-Detection-using-CNN-on-EEG-data](https://github.com/shubham-1123/Seizure-Detection-using-CNN-on-EEG-data)
+
+[seizure-type-classification-tuh, it generated pre-processed dataset for TUH seizure type classification](https://github.com/IBM/seizure-type-classification-tuh)
+
+[An iterator for TUG EEG data](https://github.com/drasros/tuh-eeg-iterator)
+
+Feature Extraction:
+[Signal feature extraction (DE and PSD)](https://github.com/ziyujia/Signal-feature-extraction_DE-and-PSD)
