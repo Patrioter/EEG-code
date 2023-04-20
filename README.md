@@ -34,9 +34,6 @@ Self supervised:
 ======
 2022: [Self-Supervised Graph Neural Networks for Improved Electroencephalographic Seizure Analysis](https://github.com/tsy935/eeg-gnn-ssl)
 
-Classification:
-
-
 Time series:
 ======
 2022: [Time-Series Representation Learning via Temporal and Contextual Contrasting (TS-TCC)](https://github.com/emadeldeen24/TS-TCC)
