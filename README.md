@@ -20,8 +20,6 @@ Seizure detection:
 
 2022: [Seizure Detection and Prediction by Parallel Memristive Convolutional Neural Networks](https://github.com/coreylammie/Memristive-Seizure-Detection-and-Prediction-by-Parallel-Convolutional-Neural-Networks)
 
-2023: [A Deep Learning Approach for Epilepsy Seizure Identification using Electroencephalogram Signals: A Preliminary Study](https://codeocean.com/capsule/1270271/tree/v1)
-
 2023: [TSD: Transformers for Seizure Detection](https://codeocean.com/capsule/9806147/tree/v1)
 
 Sipke detection:
