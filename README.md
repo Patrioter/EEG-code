@@ -20,8 +20,6 @@ Seizure detection:
 
 2022: [Seizure Detection and Prediction by Parallel Memristive Convolutional Neural Networks](https://github.com/coreylammie/Memristive-Seizure-Detection-and-Prediction-by-Parallel-Convolutional-Neural-Networks)
 
-2023: [TSD: Transformers for Seizure Detection](https://codeocean.com/capsule/9806147/tree/v1)
-
 2022: [Graph‐generative neural network for EEG‐based epileptic seizure detection via discovery of dynamic brain functional connectivity](https://github.com/ICLab4DL/GGN)
 
 Sipke detection:
