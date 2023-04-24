@@ -22,6 +22,8 @@ Seizure detection:
 
 2023: [TSD: Transformers for Seizure Detection](https://codeocean.com/capsule/9806147/tree/v1)
 
+2022: [Graph‐generative neural network for EEG‐based epileptic seizure detection via discovery of dynamic brain functional connectivity](https://github.com/ICLab4DL/GGN)
+
 Sipke detection:
 ======
 2021: [AiED: Artificial intelligence for the detection of intracranial interictal epileptiform discharges](https://github.com/ecoglab/aied)
