@@ -34,7 +34,7 @@ Self supervised:
 
 Time series:
 ======
-2022: [Time-Series Representation Learning via Temporal and Contextual Contrasting (TS-TCC)](https://github.com/emadeldeen24/TS-TCC)
+2021: [Time-Series Representation Learning via Temporal and Contextual Contrasting (TS-TCC)](https://github.com/emadeldeen24/TS-TCC)
 
 Others on EEG epileptic seizure dataset:
 ======
