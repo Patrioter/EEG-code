@@ -52,5 +52,9 @@ Others on EEG epileptic seizure dataset:
 
 [replicate and then improve upon the multi-class seizure classification problem](https://github.com/danielgrzenda/tuh_eeg)
 
+[Epileptic Seizure Detection using EEG Signals](https://github.com/irfankhaan/Epileptic-Seizure-Detection-using-EEG-Signals)
+
+[TUH-EEG-Dataset csv architecture](https://github.com/HaojiongZhang/TUH-EEG-Dataset)
+
 Feature Extraction:
 [Signal feature extraction (DE and PSD)](https://github.com/ziyujia/Signal-feature-extraction_DE-and-PSD)
