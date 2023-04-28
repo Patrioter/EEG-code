@@ -50,5 +50,7 @@ Others on EEG epileptic seizure dataset:
 
 [An iterator for TUG EEG data](https://github.com/drasros/tuh-eeg-iterator)
 
+[replicate and then improve upon the multi-class seizure classification problem](https://github.com/danielgrzenda/tuh_eeg)
+
 Feature Extraction:
 [Signal feature extraction (DE and PSD)](https://github.com/ziyujia/Signal-feature-extraction_DE-and-PSD)
