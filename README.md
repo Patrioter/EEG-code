@@ -9,7 +9,6 @@ Seizure detection:
 (https://github.com/SMorettini/CNNs-on-CHB-MIT)
 （on CHB-MIT dataset)
 
-
 2020: [Epileptic Seizure Classification with Symmetric and Hybrid Bilinear Models](https://github.com/NeuroSyd/Epileptic-Seizure-Classification)
 
 2022: [Real-Time Seizure Detection using EEG: A Comprehensive Comparison of Recent Approaches under a Realistic Setting](https://github.com/AITRICS/EEG_real_time_seizure_detection)（on TUH dataset)
@@ -17,8 +16,6 @@ Seizure detection:
 2022: [EEGWaveNet: Multi-Scale CNN-Based Spatiotemporal Feature Extraction for EEG Seizure Detection](https://github.com/IoBT-VISTEC/EEGWaveNet)
 
 2022; [MICAL: Mutual Information-Based CNN-Aided Learned Factor Graphs for Seizure Detection from EEG Signals](https://github.com/bsalafia/CNN-Aided-Factor-Graphs-with-Estimated-Mutual-Information-Features-for-Seizure-Detection-MICAL)
-
-2022: [Seizure Detection and Prediction by Parallel Memristive Convolutional Neural Networks](https://github.com/coreylammie/Memristive-Seizure-Detection-and-Prediction-by-Parallel-Convolutional-Neural-Networks)
 
 2022: [Graph‐generative neural network for EEG‐based epileptic seizure detection via discovery of dynamic brain functional connectivity](https://github.com/ICLab4DL/GGN)
 
@@ -47,8 +44,6 @@ Others on EEG epileptic seizure dataset:
 [Seizure-Detection-using-CNN-on-EEG-data](https://github.com/shubham-1123/Seizure-Detection-using-CNN-on-EEG-data)
 
 [seizure-type-classification-tuh, it generated pre-processed dataset for TUH seizure type classification](https://github.com/IBM/seizure-type-classification-tuh)
-
-[An iterator for TUG EEG data](https://github.com/drasros/tuh-eeg-iterator)
 
 [replicate and then improve upon the multi-class seizure classification problem](https://github.com/danielgrzenda/tuh_eeg)
 
