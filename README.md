@@ -21,6 +21,8 @@ Seizure detection:
 
 2022: [Self-Supervised Graph Neural Networks for Improved Electroencephalographic Seizure Analysis](https://github.com/tsy935/eeg-gnn-ssl)
 
+2023：[SSGCNet: A Sparse Spectra Graph Convolutional Network for Epileptic EEG Signal Classification](https://github.com/anonymous2020-source-code/WNFG-SSGCNet-ADMM)
+
 Sipke detection:
 ======
 2021: [AiED: Artificial intelligence for the detection of intracranial interictal epileptiform discharges](https://github.com/ecoglab/aied)
